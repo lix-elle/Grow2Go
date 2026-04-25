@@ -25,6 +25,7 @@ namespace Grow2Go.Helpers
             catch (Exception ex)
             {
                 Console.WriteLine("Connection Failed: " + ex.Message);
+                return false;
             }
         }
     }
