@@ -175,7 +175,7 @@
             this.label8.AutoSize = true;
             this.label8.Font = new System.Drawing.Font("Segoe UI", 28F, System.Drawing.FontStyle.Bold);
             this.label8.ForeColor = System.Drawing.SystemColors.Control;
-            this.label8.Location = new System.Drawing.Point(200, 101);
+            this.label8.Location = new System.Drawing.Point(187, 141);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(256, 62);
             this.label8.TabIndex = 0;
@@ -186,7 +186,7 @@
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Segoe UI", 20F);
             this.label1.ForeColor = System.Drawing.SystemColors.ControlLight;
-            this.label1.Location = new System.Drawing.Point(126, 199);
+            this.label1.Location = new System.Drawing.Point(75, 237);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(456, 46);
             this.label1.TabIndex = 1;
@@ -312,7 +312,7 @@
             this.btnCreateAccount.FillColor = System.Drawing.Color.OliveDrab;
             this.btnCreateAccount.Font = new System.Drawing.Font("Segoe UI", 18F);
             this.btnCreateAccount.ForeColor = System.Drawing.Color.White;
-            this.btnCreateAccount.Location = new System.Drawing.Point(72, 796);
+            this.btnCreateAccount.Location = new System.Drawing.Point(72, 815);
             this.btnCreateAccount.Name = "btnCreateAccount";
             this.btnCreateAccount.Size = new System.Drawing.Size(608, 60);
             this.btnCreateAccount.TabIndex = 15;
@@ -325,7 +325,7 @@
             this.txtSignUpConfirmPassword.Cursor = System.Windows.Forms.Cursors.IBeam;
             this.txtSignUpConfirmPassword.DefaultText = "";
             this.txtSignUpConfirmPassword.Font = new System.Drawing.Font("Segoe UI", 12F);
-            this.txtSignUpConfirmPassword.Location = new System.Drawing.Point(72, 735);
+            this.txtSignUpConfirmPassword.Location = new System.Drawing.Point(72, 760);
             this.txtSignUpConfirmPassword.Margin = new System.Windows.Forms.Padding(4, 6, 4, 6);
             this.txtSignUpConfirmPassword.Name = "txtSignUpConfirmPassword";
             this.txtSignUpConfirmPassword.PasswordChar = '●';
@@ -341,7 +341,7 @@
             this.lblConfirmPassword.BackColor = System.Drawing.Color.Transparent;
             this.lblConfirmPassword.Font = new System.Drawing.Font("Segoe UI", 12F);
             this.lblConfirmPassword.ForeColor = System.Drawing.Color.White;
-            this.lblConfirmPassword.Location = new System.Drawing.Point(72, 703);
+            this.lblConfirmPassword.Location = new System.Drawing.Point(72, 728);
             this.lblConfirmPassword.Name = "lblConfirmPassword";
             this.lblConfirmPassword.Size = new System.Drawing.Size(220, 29);
             this.lblConfirmPassword.TabIndex = 13;
@@ -353,7 +353,7 @@
             this.txtSignUpPassword.Cursor = System.Windows.Forms.Cursors.IBeam;
             this.txtSignUpPassword.DefaultText = "";
             this.txtSignUpPassword.Font = new System.Drawing.Font("Segoe UI", 12F);
-            this.txtSignUpPassword.Location = new System.Drawing.Point(72, 647);
+            this.txtSignUpPassword.Location = new System.Drawing.Point(72, 676);
             this.txtSignUpPassword.Margin = new System.Windows.Forms.Padding(4, 6, 4, 6);
             this.txtSignUpPassword.Name = "txtSignUpPassword";
             this.txtSignUpPassword.PasswordChar = '●';
@@ -369,7 +369,7 @@
             this.lblSignUpPassword.BackColor = System.Drawing.Color.Transparent;
             this.lblSignUpPassword.Font = new System.Drawing.Font("Segoe UI", 12F);
             this.lblSignUpPassword.ForeColor = System.Drawing.Color.White;
-            this.lblSignUpPassword.Location = new System.Drawing.Point(72, 615);
+            this.lblSignUpPassword.Location = new System.Drawing.Point(72, 644);
             this.lblSignUpPassword.Name = "lblSignUpPassword";
             this.lblSignUpPassword.Size = new System.Drawing.Size(180, 29);
             this.lblSignUpPassword.TabIndex = 11;
@@ -381,7 +381,7 @@
             this.txtSignUpEmail.Cursor = System.Windows.Forms.Cursors.IBeam;
             this.txtSignUpEmail.DefaultText = "";
             this.txtSignUpEmail.Font = new System.Drawing.Font("Segoe UI", 12F);
-            this.txtSignUpEmail.Location = new System.Drawing.Point(72, 559);
+            this.txtSignUpEmail.Location = new System.Drawing.Point(72, 592);
             this.txtSignUpEmail.Margin = new System.Windows.Forms.Padding(4, 6, 4, 6);
             this.txtSignUpEmail.Name = "txtSignUpEmail";
             this.txtSignUpEmail.PlaceholderText = "Email";
@@ -396,7 +396,7 @@
             this.lblSignUpEmail.BackColor = System.Drawing.Color.Transparent;
             this.lblSignUpEmail.Font = new System.Drawing.Font("Segoe UI", 12F);
             this.lblSignUpEmail.ForeColor = System.Drawing.Color.White;
-            this.lblSignUpEmail.Location = new System.Drawing.Point(72, 527);
+            this.lblSignUpEmail.Location = new System.Drawing.Point(72, 560);
             this.lblSignUpEmail.Name = "lblSignUpEmail";
             this.lblSignUpEmail.Size = new System.Drawing.Size(180, 29);
             this.lblSignUpEmail.TabIndex = 9;
@@ -408,7 +408,7 @@
             this.txtSignUpPhone.Cursor = System.Windows.Forms.Cursors.IBeam;
             this.txtSignUpPhone.DefaultText = "";
             this.txtSignUpPhone.Font = new System.Drawing.Font("Segoe UI", 12F);
-            this.txtSignUpPhone.Location = new System.Drawing.Point(72, 471);
+            this.txtSignUpPhone.Location = new System.Drawing.Point(72, 508);
             this.txtSignUpPhone.Margin = new System.Windows.Forms.Padding(4, 6, 4, 6);
             this.txtSignUpPhone.Name = "txtSignUpPhone";
             this.txtSignUpPhone.PlaceholderText = "Phone Number";
@@ -423,7 +423,7 @@
             this.lblPhoneNumber.BackColor = System.Drawing.Color.Transparent;
             this.lblPhoneNumber.Font = new System.Drawing.Font("Segoe UI", 12F);
             this.lblPhoneNumber.ForeColor = System.Drawing.Color.White;
-            this.lblPhoneNumber.Location = new System.Drawing.Point(72, 439);
+            this.lblPhoneNumber.Location = new System.Drawing.Point(72, 476);
             this.lblPhoneNumber.Name = "lblPhoneNumber";
             this.lblPhoneNumber.Size = new System.Drawing.Size(280, 29);
             this.lblPhoneNumber.TabIndex = 7;
@@ -435,7 +435,7 @@
             this.txtSignUpFullName.Cursor = System.Windows.Forms.Cursors.IBeam;
             this.txtSignUpFullName.DefaultText = "";
             this.txtSignUpFullName.Font = new System.Drawing.Font("Segoe UI", 12F);
-            this.txtSignUpFullName.Location = new System.Drawing.Point(72, 383);
+            this.txtSignUpFullName.Location = new System.Drawing.Point(72, 424);
             this.txtSignUpFullName.Margin = new System.Windows.Forms.Padding(4, 6, 4, 6);
             this.txtSignUpFullName.Name = "txtSignUpFullName";
             this.txtSignUpFullName.PlaceholderText = "Full Name";
@@ -450,7 +450,7 @@
             this.lblFullName.BackColor = System.Drawing.Color.Transparent;
             this.lblFullName.Font = new System.Drawing.Font("Segoe UI", 12F);
             this.lblFullName.ForeColor = System.Drawing.Color.White;
-            this.lblFullName.Location = new System.Drawing.Point(72, 351);
+            this.lblFullName.Location = new System.Drawing.Point(72, 392);
             this.lblFullName.Name = "lblFullName";
             this.lblFullName.Size = new System.Drawing.Size(180, 29);
             this.lblFullName.TabIndex = 5;
@@ -462,9 +462,9 @@
             this.lblSelectedRole.BackColor = System.Drawing.Color.Transparent;
             this.lblSelectedRole.Font = new System.Drawing.Font("Segoe UI", 13F, System.Drawing.FontStyle.Bold);
             this.lblSelectedRole.ForeColor = System.Drawing.Color.YellowGreen;
-            this.lblSelectedRole.Location = new System.Drawing.Point(72, 220);
+            this.lblSelectedRole.Location = new System.Drawing.Point(72, 350);
             this.lblSelectedRole.Name = "lblSelectedRole";
-            this.lblSelectedRole.Size = new System.Drawing.Size(260, 32);
+            this.lblSelectedRole.Size = new System.Drawing.Size(320, 32);
             this.lblSelectedRole.TabIndex = 4;
             this.lblSelectedRole.Text = "Customer Account";
             // 
@@ -521,7 +521,7 @@
             this.lblSignUpDetailsSubtitle.AutoSize = true;
             this.lblSignUpDetailsSubtitle.Font = new System.Drawing.Font("Segoe UI", 20F);
             this.lblSignUpDetailsSubtitle.ForeColor = System.Drawing.SystemColors.ControlLight;
-            this.lblSignUpDetailsSubtitle.Location = new System.Drawing.Point(126, 178);
+            this.lblSignUpDetailsSubtitle.Location = new System.Drawing.Point(171, 181);
             this.lblSignUpDetailsSubtitle.Name = "lblSignUpDetailsSubtitle";
             this.lblSignUpDetailsSubtitle.Size = new System.Drawing.Size(456, 46);
             this.lblSignUpDetailsSubtitle.TabIndex = 17;
@@ -532,7 +532,7 @@
             this.lblSignUpDetailsTitle.AutoSize = true;
             this.lblSignUpDetailsTitle.Font = new System.Drawing.Font("Segoe UI", 28F, System.Drawing.FontStyle.Bold);
             this.lblSignUpDetailsTitle.ForeColor = System.Drawing.SystemColors.Control;
-            this.lblSignUpDetailsTitle.Location = new System.Drawing.Point(200, 88);
+            this.lblSignUpDetailsTitle.Location = new System.Drawing.Point(274, 101);
             this.lblSignUpDetailsTitle.Name = "lblSignUpDetailsTitle";
             this.lblSignUpDetailsTitle.Size = new System.Drawing.Size(256, 62);
             this.lblSignUpDetailsTitle.TabIndex = 16;
@@ -701,12 +701,8 @@
         private Guna.UI2.WinForms.Guna2CustomGradientPanel guna2CustomGradientPanel2;
         private Guna.UI2.WinForms.Guna2Button btnSignInToggleDetails;
         private Guna.UI2.WinForms.Guna2Button btnSignUpToggleDetails;
-        private System.Windows.Forms.Label lblSignUpDetailsSubtitle;
-        private System.Windows.Forms.Label lblSignUpDetailsTitle;
         private Guna.UI2.WinForms.Guna2Button guna2Button2;
         private Guna.UI2.WinForms.Guna2Button guna2Button1;
-        private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.Label label2;
         private Guna.UI2.WinForms.Guna2CustomGradientPanel guna2CustomGradientPanel1;
         private Guna.UI2.WinForms.Guna2Button guna2Button3;
         private Guna.UI2.WinForms.Guna2Button guna2Button4;
@@ -723,5 +719,9 @@
         private Guna.UI2.WinForms.Guna2TextBox txtSignUpConfirmPassword;
         private Guna.UI2.WinForms.Guna2HtmlLabel lblConfirmPassword;
         private Guna.UI2.WinForms.Guna2Button btnCreateAccount;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Label lblSignUpDetailsSubtitle;
+        private System.Windows.Forms.Label lblSignUpDetailsTitle;
     }
 }

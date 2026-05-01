@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{84CF5A57-0A1B-4F1B-A853-93EACE5D5AEB}</ProjectGuid>
+    <ProjectGuid>{E375AAD7-A2AA-C200-3BE4-4F925D7A6AA0}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>Grow2Go</RootNamespace>
     <AssemblyName>Grow2Go</AssemblyName>
@@ -31,6 +31,9 @@
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Grow2Go.Program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="BouncyCastle.Cryptography, Version=2.0.0.0, Culture=neutral, PublicKeyToken=072edcf4a5328938, processorArchitecture=MSIL">

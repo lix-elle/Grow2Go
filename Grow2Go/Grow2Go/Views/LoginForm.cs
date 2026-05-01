@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Drawing;
 using System.Windows.Forms;
 using Guna.UI2.WinForms;
@@ -53,7 +53,6 @@ namespace Grow2Go.Views
             }
         }
 
-        // THIS IS THE FIXED LOGIN LOGIC
         private void btnSignInMain_Click(object sender, EventArgs e)
         {
             string email = txtEmail.Text.Trim();
